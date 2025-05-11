@@ -70,4 +70,4 @@ Say **"exit"** or **"quit"** to stop the program.
 
 ## 📄 License
 
-This project is open-source
+This project is licensed under the MIT License.
